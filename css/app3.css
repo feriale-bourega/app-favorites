@@ -46,19 +46,39 @@ h2,h3{
     margin: 10px;
 }
 
-
-
-nav {
-    border-style: solid;
-    border-color: black;
-    width: 200px;
-    height: 250px;
-    background-color: black;
-     
-}   
-
 a  {
     font-family: Brush Script MT, Brush Script Std, cursive;
     color: white;
     font-size: 30px;
+}
+
+.main-nav3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch; 
+    
+    
+}
+ 
+
+.push3  {
+    list-style: none;
+     
+}
+
+.aul3{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-family: fantasy;
+
+}
+
+footer  {
+    width: 500px;
+    padding: 20px;
+}
+
+.pnav3{
+    font-size: 20px;
 }

@@ -1,7 +1,42 @@
 body{
-    background-color: red;
+    background-color:red;
     padding:70px;
     margin: 70px;
+    height: 100vh;
+}
+  
+    
+.main-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch; 
+    
+    
+}
+ 
+
+.push  {
+    list-style: none;
+     
+}
+
+.aul {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-family: fantasy;
+
+}
+
+footer  {
+    
+    width: 500px;
+    
+    padding: 20px;
+}
+
+.pnav{
+    font-size: 20px;
 }
 
 h1  {

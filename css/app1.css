@@ -3,6 +3,37 @@ body{
     background: linear-gradient(yellowgreen,yellow);
 }
 
+.main-nav1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch; 
+    
+    
+}
+ 
+
+.push1  {
+    list-style: none;
+     
+}
+
+.aul1 {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-family: fantasy;
+
+}
+
+footer  {
+    width: 500px;
+    padding: 20px;
+}
+
+.pnav{
+    font-size: 20px;
+}
+
 img {
     border-radius: 30px;
 }
@@ -35,28 +66,7 @@ h2,h3,h4 {
     margin: 10px;
 }
 
-.t3 {
-    background-color:black;
-    border-radius: 30px;
-    padding: 10px;
-    margin: 10px;
-}
 
-.t4 {
-    background-color:black;
-    border-radius: 30px;
-    padding: 10px;
-    margin: 10px;
-}
-
-nav {
-    border-style: solid;
-    border-color: black;
-    width: 200px;
-    height: 250px;
-    background-color: black;
-     
-}   
 
 a  {
     font-family: Brush Script MT, Brush Script Std, cursive;
